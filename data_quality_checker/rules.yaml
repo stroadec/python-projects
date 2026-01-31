@@ -1,0 +1,8 @@
+required_columns:
+  - name
+  - email
+  - age
+
+age:
+  min: 18
+  max: 99
