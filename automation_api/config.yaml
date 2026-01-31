@@ -1,0 +1,6 @@
+input_file: data/input.csv
+output_file: data/output.csv
+
+cleaning:
+  fill_text: "Unknown"
+  fill_number: 0

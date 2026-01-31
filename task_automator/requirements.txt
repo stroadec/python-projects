@@ -1,3 +1,6 @@
-```txt
 pandas
 openpyxl
+pyyaml
+fastapi
+uvicorn
+

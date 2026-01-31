@@ -1,0 +1,5 @@
+name,amount,date
+alice,100,2024-01-01
+bob,,2024-01-02
+,200,2024-01-03
+charlie,150,

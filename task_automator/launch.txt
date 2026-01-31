@@ -1,0 +1,25 @@
+///Packager le script en .exe Windows
+
+pip install pyinstaller
+pyinstaller --onefile main.py
+
+Résultat :
+dossier dist/
+fichier main.exe
+
+package livré :
+main.exe
+config.yaml
+dossier data/
+
+
+///Version API REST (FastAPI)
+
+pip install fastapi uvicorn
+uvicorn api:app --reload
+
+API lancé :
+http://127.0.0.1:8000/docs
+
+
+
