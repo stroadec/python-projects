@@ -97,7 +97,14 @@ A Python tool to validate CSV data against business rules and schema constraints
 
 Generates summary reports (KPIs, totals, averages) from raw CSV data.
 
-📂 `automated_report_generator`  
+**Key features:**
+- Config-driven KPI generation
+- Automatic data aggregation
+- Clean and structured report output
+- Reusable business logic
+- Business-oriented design
+
+📂 Folder: `automated_report_generator`  
 **Use case:** Business reporting and performance tracking.
 
 ---
@@ -107,7 +114,14 @@ Generates summary reports (KPIs, totals, averages) from raw CSV data.
 
 Monitors folders and automatically triggers processing when new files are detected.
 
-📂 `file_monitor_automation`  
+**Key features:**
+- Real-time folder monitoring
+- Event-driven automation
+- Configurable workflow
+- Hands-free file processing
+- Enterprise-ready automation pattern
+
+📂 Folder: `file_monitor_automation`  
 **Use case:** End-to-end automation of file-based workflows.
 
 ---
