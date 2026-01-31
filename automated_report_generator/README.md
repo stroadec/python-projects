@@ -1,7 +1,7 @@
 # Automated Report Generator
 
 ## Description
-A Python tool that automatically generates summary business reports from raw CSV data.
+A Python tool that automatically generates summary business reports from raw CSV data. 
 
 ## Features
 - Configurable KPIs
