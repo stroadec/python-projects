@@ -1,0 +1,7 @@
+metrics:
+  - column: sales
+    type: sum
+  - column: sales
+    type: mean
+  - column: quantity
+    type: sum

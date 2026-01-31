@@ -1,12 +1,14 @@
 # Python Freelance Projects
 
-Professional Python projects focused on **automation**, **APIs**, **data processing**, and **web scraping**.
+Professional Python projects focused on **automation**, **APIs**, **data processing**, **data quality** and **web scraping**.
 
 This repository showcases real-world solutions designed to help businesses:
 - save time
 - reduce manual work
 - improve data quality
 - automate repetitive processes
+- process and validate data
+- build backend tools and APIs
 
 ---
 
@@ -90,11 +92,32 @@ A Python tool to validate CSV data against business rules and schema constraints
 
 ---
 
+### 6️⃣ Automated Report Generator
+**Generate business reports automatically**
+
+Generates summary reports (KPIs, totals, averages) from raw CSV data.
+
+📂 `automated_report_generator`  
+**Use case:** Business reporting and performance tracking.
+
+---
+
+### 7️⃣ File Monitoring & Automation Tool
+**Trigger automation on new files**
+
+Monitors folders and automatically triggers processing when new files are detected.
+
+📂 `file_monitor_automation`  
+**Use case:** End-to-end automation of file-based workflows.
+
+---
+
 ## 🧠 Skills Demonstrated
 - Python (clean, modular code)
 - Automation & scripting
 - REST APIs (FastAPI)
-- Data processing & validation
+- Data processing & reporting
+- Data validation & quality control
 - Web scraping
 - Configuration-driven tools
 
